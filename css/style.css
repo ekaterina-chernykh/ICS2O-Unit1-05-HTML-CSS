@@ -17,8 +17,8 @@
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 .mdl-ripple {
-  background: #9b259d;
-  opacity: 0.001;
+background: #000;
+opacity: 0.001;
 }
 
 body {
